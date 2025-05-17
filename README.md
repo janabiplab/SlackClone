@@ -5,7 +5,7 @@ A real-time team collaboration app that replicates the core functionalities of *
 ---
 
 <img src="https://mir-s3-cdn-cf.behance.net/projects/404/2b2cc375188577.Y3JvcCw3NTIsNTg4LDMyNCw3NA.png"  width="100%" 
-   height="200px"/>
+   height="250px"/>
 
 ### Home page
 ![Screenshot (30)](https://github.com/user-attachments/assets/10c2fafe-66d6-40c5-b451-58ce7249cf5e)
