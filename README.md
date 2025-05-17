@@ -34,7 +34,7 @@ A real-time team collaboration app that replicates the core functionalities of *
 ### ✅ Backend/Realtime Services:
 - **Firebase Firestore** – Realtime NoSQL database
 - **Firebase Authentication** – Google sign-in
-- **Firebase Hosting** *(optional)* – For deployment
+- **Firebase Hosting**  – For deployment
 
 ---
 
