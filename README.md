@@ -4,7 +4,7 @@ A real-time team collaboration app that replicates the core functionalities of *
 
 ---
 
-<img src="https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60c7975d3da231ce1fe7d638_s_AF3D8F2E79BF9CBAF0DFA6E04ABF6A1E25EEFCEA868D2CF45BEE4D0430BA95B8_1622443051429_Screenshot%2B157.png"  width="100%" 
+<img src="https://mir-s3-cdn-cf.behance.net/projects/404/2b2cc375188577.Y3JvcCw3NTIsNTg4LDMyNCw3NA.png"  width="100%" 
    height="200px"/>
 
 ### Home page
